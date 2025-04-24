@@ -1,5 +1,5 @@
 # fb-messenger-keep-calling
-A simple python script to constantly call someone.
+A simple python script to constantly call someone. Feel free to edit the images according to your liking.
 
 # Usage
 1. Clone the repository<br>
